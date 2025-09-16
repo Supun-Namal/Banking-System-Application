@@ -42,5 +42,5 @@ Feel free to contribute, report issues, or suggest enhancements!
 ![image alt](https://github.com/Supun-Namal/Banking-System-Application/blob/7a7967c9da436c22352ed4c7b1ef1f18cbb21a01/Screenshots/04.PNG)<br>
 ## Withdraw
 ![image alt](https://github.com/Supun-Namal/Banking-System-Application/blob/7a7967c9da436c22352ed4c7b1ef1f18cbb21a01/Screenshots/05.PNG)<br>
-## View transaction
+## View Transaction
 ![image alt](https://github.com/Supun-Namal/Banking-System-Application/blob/7a7967c9da436c22352ed4c7b1ef1f18cbb21a01/Screenshots/06.PNG)<br>
