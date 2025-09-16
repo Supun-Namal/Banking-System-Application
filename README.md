@@ -32,10 +32,15 @@ A simple Java-based command-line banking application that allows users to manage
 Feel free to contribute, report issues, or suggest enhancements!
 
 # Screenshots
-
+## Create Account
 ![image alt](https://github.com/Supun-Namal/Banking-System-Application/blob/7a7967c9da436c22352ed4c7b1ef1f18cbb21a01/Screenshots/01.PNG) <br>
+## Banking Menu
 ![image alt](https://github.com/Supun-Namal/Banking-System-Application/blob/7a7967c9da436c22352ed4c7b1ef1f18cbb21a01/Screenshots/02.PNG)<br>
+## View Balance
 ![image alt](https://github.com/Supun-Namal/Banking-System-Application/blob/7a7967c9da436c22352ed4c7b1ef1f18cbb21a01/Screenshots/03.PNG)<br>
+## Deposit
 ![image alt](https://github.com/Supun-Namal/Banking-System-Application/blob/7a7967c9da436c22352ed4c7b1ef1f18cbb21a01/Screenshots/04.PNG)<br>
+## Withdraw
 ![image alt](https://github.com/Supun-Namal/Banking-System-Application/blob/7a7967c9da436c22352ed4c7b1ef1f18cbb21a01/Screenshots/05.PNG)<br>
+## View transaction
 ![image alt](https://github.com/Supun-Namal/Banking-System-Application/blob/7a7967c9da436c22352ed4c7b1ef1f18cbb21a01/Screenshots/06.PNG)<br>
